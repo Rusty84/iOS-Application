@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "pngwing.com-removebg-preview.png",
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "pngwing.com-removebg-preview-1.png",
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "pngwing.com-removebg-preview-2.png",
+      "idiom" : "iphone",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
